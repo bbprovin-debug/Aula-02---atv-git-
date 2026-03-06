@@ -1,7 +1,7 @@
 public class Hello {
 
     public static void falar() {
-        System.out.println("Hallo Welt!");
+        System.out.println("Hello World!");
     }
 
 }
